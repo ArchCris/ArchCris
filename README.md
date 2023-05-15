@@ -6,7 +6,7 @@ I am a passionate Full stack Developer.
 
 *   🌍  I'm based in Sydney, Australia
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://app.netlify.com/teams/archcris/overview'>Portfolio</a>
-*   🧠  Currently looking for a position to be able to code 100% of the day 
+*   🧠  Currently looking for a position to be able to code 100% of the day 🤓
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
@@ -19,4 +19,4 @@ I am a passionate Full stack Developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/arqcristianmasci/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
